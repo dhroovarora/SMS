@@ -1,1 +1,1 @@
-# Link to SMS : https://dhroovscaler.netlify.app/
+# Live at : https://dhroovscaler.netlify.app/

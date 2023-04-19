@@ -6,7 +6,7 @@ const colors = require("colors");
 
 const connectDB = async () => {
   try {
-    const conn = await mongoose.connect("mongodb://localhost:27017/scaler");
+    const conn = await mongoose.connect("mongodb+srv://dhroov:dhroov@cluster0.yocodbh.mongodb.net/scaler");
     console.log(
       `Conneted To Mongodb Databse ${conn.connection.host}`.bgMagenta.white
     );

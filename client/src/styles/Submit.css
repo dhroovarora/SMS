@@ -1,0 +1,24 @@
+.Row {
+    text-align: center;
+    position: absolute;
+    left: 35%;
+    right: 50%;
+    top: 25%;
+    
+    width: 25%;
+    height: 25%;
+  
+    display: flex;
+  
+    
+  }
+  .Square {
+    position: absolute;
+    
+    width: 70px;
+    height: 70px;
+    border-color: #99ccff;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+  }
